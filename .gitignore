@@ -4,3 +4,7 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
+ai_log_book.md
+project_structure.md
+COWORK_BATTLE_PLAN.md
+PERSON_A_TASKS.md
